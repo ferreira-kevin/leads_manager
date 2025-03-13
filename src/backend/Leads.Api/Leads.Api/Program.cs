@@ -1,15 +1,34 @@
+
+using FluentValidation;
+using Leads.Api.Validators;
+using Leads.Application.Commands;
+using Leads.Application.Validators;
+using Leads.Infrastructure.EventStore;
+using MediatR;
+using Microsoft.EntityFrameworkCore;
+using System.Reflection;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddMemoryCache();
+builder.Services.AddDbContext<EventStoreDbContext>(options =>
+    options.UseInMemoryDatabase("EventStoreDB"));
+builder.Services.AddScoped<IEventStore, EFEventStore>();
+
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
+builder.Services.AddTransient<IRequestHandler<CreateLeadCommand, Unit>, CreateLeadCommandHandler>();
+
+builder.Services.AddTransient<IValidator<CreateLeadCommand>, CreateLeadCommandValidator>();
+builder.Services.AddTransient<IValidator<AcceptLeadCommand>, AcceptLeadCommandValidator>();
+builder.Services.AddTransient<IValidator<DeclineLeadCommand>, DeclineLeadCommandValidator>();
 
 var app = builder.Build();
+app.UseCors(policy => policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

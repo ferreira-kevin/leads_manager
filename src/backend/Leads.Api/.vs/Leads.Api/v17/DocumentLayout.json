@@ -1,7 +1,124 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2082762-4D6D-40CF-A036-E07581D249A5}|Leads.Api\\Leads.Api.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2082762-4D6D-40CF-A036-E07581D249A5}|Leads.Api\\Leads.Api.csproj|solutionrelative:leads.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2082762-4D6D-40CF-A036-E07581D249A5}|Leads.Api\\Leads.Api.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.api\\controllers\\leadsmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2082762-4D6D-40CF-A036-E07581D249A5}|Leads.Api\\Leads.Api.csproj|solutionrelative:leads.api\\controllers\\leadsmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2082762-4D6D-40CF-A036-E07581D249A5}|Leads.Api\\Leads.Api.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.api\\controllers\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2082762-4D6D-40CF-A036-E07581D249A5}|Leads.Api\\Leads.Api.csproj|solutionrelative:leads.api\\controllers\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.application\\commands\\acceptleadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|solutionrelative:leads.application\\commands\\acceptleadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1833DF-BB51-4469-A51C-E5F29DD26955}|Leads.Domain\\Leads.Domain.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.domain\\readmodels\\leaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1833DF-BB51-4469-A51C-E5F29DD26955}|Leads.Domain\\Leads.Domain.csproj|solutionrelative:leads.domain\\readmodels\\leaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.application\\commands\\declineleadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|solutionrelative:leads.application\\commands\\declineleadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.application\\commands\\createleadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|solutionrelative:leads.application\\commands\\createleadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1833DF-BB51-4469-A51C-E5F29DD26955}|Leads.Domain\\Leads.Domain.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.domain\\events\\leadcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1833DF-BB51-4469-A51C-E5F29DD26955}|Leads.Domain\\Leads.Domain.csproj|solutionrelative:leads.domain\\events\\leadcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82C6210-E44C-4541-910E-83229A77BA57}|Leads.Infrastructure\\Leads.Infrastructure.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.infrastructure\\efeventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82C6210-E44C-4541-910E-83229A77BA57}|Leads.Infrastructure\\Leads.Infrastructure.csproj|solutionrelative:leads.infrastructure\\efeventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.application\\commands\\createleadcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|solutionrelative:leads.application\\commands\\createleadcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1833DF-BB51-4469-A51C-E5F29DD26955}|Leads.Domain\\Leads.Domain.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.domain\\events\\leadaccepted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1833DF-BB51-4469-A51C-E5F29DD26955}|Leads.Domain\\Leads.Domain.csproj|solutionrelative:leads.domain\\events\\leadaccepted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5331D86D-0FC1-48FB-8681-F3947B99A052}|Leads.EventSourcing.Core\\Leads.EventSourcing.Core.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.eventsourcing.core\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5331D86D-0FC1-48FB-8681-F3947B99A052}|Leads.EventSourcing.Core\\Leads.EventSourcing.Core.csproj|solutionrelative:leads.eventsourcing.core\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.application\\validators\\declineleadcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|solutionrelative:leads.application\\validators\\declineleadcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.application\\validators\\acceptleadcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|solutionrelative:leads.application\\validators\\acceptleadcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.application\\commands\\declineleadcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|solutionrelative:leads.application\\commands\\declineleadcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.application\\commands\\acceptleadcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|solutionrelative:leads.application\\commands\\acceptleadcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82C6210-E44C-4541-910E-83229A77BA57}|Leads.Infrastructure\\Leads.Infrastructure.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.infrastructure\\leadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82C6210-E44C-4541-910E-83229A77BA57}|Leads.Infrastructure\\Leads.Infrastructure.csproj|solutionrelative:leads.infrastructure\\leadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82C6210-E44C-4541-910E-83229A77BA57}|Leads.Infrastructure\\Leads.Infrastructure.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.infrastructure\\leadprojector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82C6210-E44C-4541-910E-83229A77BA57}|Leads.Infrastructure\\Leads.Infrastructure.csproj|solutionrelative:leads.infrastructure\\leadprojector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.application\\queries\\getinvitedleadsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|solutionrelative:leads.application\\queries\\getinvitedleadsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82C6210-E44C-4541-910E-83229A77BA57}|Leads.Infrastructure\\Leads.Infrastructure.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.infrastructure\\leads.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D82C6210-E44C-4541-910E-83229A77BA57}|Leads.Infrastructure\\Leads.Infrastructure.csproj|solutionrelative:leads.infrastructure\\leads.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2082762-4D6D-40CF-A036-E07581D249A5}|Leads.Api\\Leads.Api.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2082762-4D6D-40CF-A036-E07581D249A5}|Leads.Api\\Leads.Api.csproj|solutionrelative:leads.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82C6210-E44C-4541-910E-83229A77BA57}|Leads.Infrastructure\\Leads.Infrastructure.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.infrastructure\\ieventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82C6210-E44C-4541-910E-83229A77BA57}|Leads.Infrastructure\\Leads.Infrastructure.csproj|solutionrelative:leads.infrastructure\\ieventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82C6210-E44C-4541-910E-83229A77BA57}|Leads.Infrastructure\\Leads.Infrastructure.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.infrastructure\\eventstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82C6210-E44C-4541-910E-83229A77BA57}|Leads.Infrastructure\\Leads.Infrastructure.csproj|solutionrelative:leads.infrastructure\\eventstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5331D86D-0FC1-48FB-8681-F3947B99A052}|Leads.EventSourcing.Core\\Leads.EventSourcing.Core.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.eventsourcing.core\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5331D86D-0FC1-48FB-8681-F3947B99A052}|Leads.EventSourcing.Core\\Leads.EventSourcing.Core.csproj|solutionrelative:leads.eventsourcing.core\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5331D86D-0FC1-48FB-8681-F3947B99A052}|Leads.EventSourcing.Core\\Leads.EventSourcing.Core.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.eventsourcing.core\\modeleventbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5331D86D-0FC1-48FB-8681-F3947B99A052}|Leads.EventSourcing.Core\\Leads.EventSourcing.Core.csproj|solutionrelative:leads.eventsourcing.core\\modeleventbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1833DF-BB51-4469-A51C-E5F29DD26955}|Leads.Domain\\Leads.Domain.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.domain\\events\\leaddeclined.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1833DF-BB51-4469-A51C-E5F29DD26955}|Leads.Domain\\Leads.Domain.csproj|solutionrelative:leads.domain\\events\\leaddeclined.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.application\\queries\\getinvitedleadsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7631E477-F7F4-4B7A-A46C-5237EF865133}|Leads.Application\\Leads.Application.csproj|solutionrelative:leads.application\\queries\\getinvitedleadsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1833DF-BB51-4469-A51C-E5F29DD26955}|Leads.Domain\\Leads.Domain.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.domain\\leads.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A1833DF-BB51-4469-A51C-E5F29DD26955}|Leads.Domain\\Leads.Domain.csproj|solutionrelative:leads.domain\\leads.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1833DF-BB51-4469-A51C-E5F29DD26955}|Leads.Domain\\Leads.Domain.csproj|d:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\leads.api\\leads.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1833DF-BB51-4469-A51C-E5F29DD26955}|Leads.Domain\\Leads.Domain.csproj|solutionrelative:leads.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 45,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,6 +199,383 @@
             {
               "$type": "Bookmark",
               "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeadsMock.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Api\\Controllers\\LeadsMock.cs",
+              "RelativeDocumentMoniker": "Leads.Api\\Controllers\\LeadsMock.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Api\\Controllers\\LeadsMock.cs",
+              "RelativeToolTip": "Leads.Api\\Controllers\\LeadsMock.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:33:57.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeadDto.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Domain\\ReadModels\\LeadDto.cs",
+              "RelativeDocumentMoniker": "Leads.Domain\\ReadModels\\LeadDto.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Domain\\ReadModels\\LeadDto.cs",
+              "RelativeToolTip": "Leads.Domain\\ReadModels\\LeadDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:29:55.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeclineLeadCommandValidator.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Validators\\DeclineLeadCommandValidator.cs",
+              "RelativeDocumentMoniker": "Leads.Application\\Validators\\DeclineLeadCommandValidator.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Validators\\DeclineLeadCommandValidator.cs",
+              "RelativeToolTip": "Leads.Application\\Validators\\DeclineLeadCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:12:21.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AcceptLeadCommandValidator.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Validators\\AcceptLeadCommandValidator.cs",
+              "RelativeDocumentMoniker": "Leads.Application\\Validators\\AcceptLeadCommandValidator.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Validators\\AcceptLeadCommandValidator.cs",
+              "RelativeToolTip": "Leads.Application\\Validators\\AcceptLeadCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:11:26.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeclineLeadCommandHandler.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Commands\\DeclineLeadCommandHandler.cs",
+              "RelativeDocumentMoniker": "Leads.Application\\Commands\\DeclineLeadCommandHandler.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Commands\\DeclineLeadCommandHandler.cs",
+              "RelativeToolTip": "Leads.Application\\Commands\\DeclineLeadCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:00:44.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AcceptLeadCommandHandler.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Commands\\AcceptLeadCommandHandler.cs",
+              "RelativeDocumentMoniker": "Leads.Application\\Commands\\AcceptLeadCommandHandler.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Commands\\AcceptLeadCommandHandler.cs",
+              "RelativeToolTip": "Leads.Application\\Commands\\AcceptLeadCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:00:23.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeclineLeadCommand.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Commands\\DeclineLeadCommand.cs",
+              "RelativeDocumentMoniker": "Leads.Application\\Commands\\DeclineLeadCommand.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Commands\\DeclineLeadCommand.cs",
+              "RelativeToolTip": "Leads.Application\\Commands\\DeclineLeadCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:59:18.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AcceptLeadCommand.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Commands\\AcceptLeadCommand.cs",
+              "RelativeDocumentMoniker": "Leads.Application\\Commands\\AcceptLeadCommand.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Commands\\AcceptLeadCommand.cs",
+              "RelativeToolTip": "Leads.Application\\Commands\\AcceptLeadCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:59:06.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateLeadCommandHandler.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Commands\\CreateLeadCommandHandler.cs",
+              "RelativeDocumentMoniker": "Leads.Application\\Commands\\CreateLeadCommandHandler.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Commands\\CreateLeadCommandHandler.cs",
+              "RelativeToolTip": "Leads.Application\\Commands\\CreateLeadCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:24:45.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateLeadCommand.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Commands\\CreateLeadCommand.cs",
+              "RelativeDocumentMoniker": "Leads.Application\\Commands\\CreateLeadCommand.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Commands\\CreateLeadCommand.cs",
+              "RelativeToolTip": "Leads.Application\\Commands\\CreateLeadCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:22:51.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Leads.Infrastructure",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Infrastructure\\Leads.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Leads.Infrastructure\\Leads.Infrastructure.csproj",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Infrastructure\\Leads.Infrastructure.csproj",
+              "RelativeToolTip": "Leads.Infrastructure\\Leads.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T12:17:54.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LeadProjector.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Infrastructure\\LeadProjector.cs",
+              "RelativeDocumentMoniker": "Leads.Infrastructure\\LeadProjector.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Infrastructure\\LeadProjector.cs",
+              "RelativeToolTip": "Leads.Infrastructure\\LeadProjector.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwD4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:18:07.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Leads.Api\\appsettings.json",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Api\\appsettings.json",
+              "RelativeToolTip": "Leads.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T12:11:53.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeadRepository.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Infrastructure\\LeadRepository.cs",
+              "RelativeDocumentMoniker": "Leads.Infrastructure\\LeadRepository.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Infrastructure\\LeadRepository.cs",
+              "RelativeToolTip": "Leads.Infrastructure\\LeadRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:09:32.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IEventStore.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Infrastructure\\IEventStore.cs",
+              "RelativeDocumentMoniker": "Leads.Infrastructure\\IEventStore.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Infrastructure\\IEventStore.cs",
+              "RelativeToolTip": "Leads.Infrastructure\\IEventStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:08:43.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EFEventStore.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Infrastructure\\EFEventStore.cs",
+              "RelativeDocumentMoniker": "Leads.Infrastructure\\EFEventStore.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Infrastructure\\EFEventStore.cs",
+              "RelativeToolTip": "Leads.Infrastructure\\EFEventStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:08:04.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventStoreDbContext.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Infrastructure\\EventStoreDbContext.cs",
+              "RelativeDocumentMoniker": "Leads.Infrastructure\\EventStoreDbContext.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Infrastructure\\EventStoreDbContext.cs",
+              "RelativeToolTip": "Leads.Infrastructure\\EventStoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:06:24.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.EventSourcing.Core\\Event.cs",
+              "RelativeDocumentMoniker": "Leads.EventSourcing.Core\\Event.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.EventSourcing.Core\\Event.cs",
+              "RelativeToolTip": "Leads.EventSourcing.Core\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:55:59.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IEvent.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.EventSourcing.Core\\IEvent.cs",
+              "RelativeDocumentMoniker": "Leads.EventSourcing.Core\\IEvent.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.EventSourcing.Core\\IEvent.cs",
+              "RelativeToolTip": "Leads.EventSourcing.Core\\IEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:37:42.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ModelEventBase.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.EventSourcing.Core\\ModelEventBase.cs",
+              "RelativeDocumentMoniker": "Leads.EventSourcing.Core\\ModelEventBase.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.EventSourcing.Core\\ModelEventBase.cs",
+              "RelativeToolTip": "Leads.EventSourcing.Core\\ModelEventBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:32:04.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetInvitedLeadsQueryHandler.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Queries\\GetInvitedLeadsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Leads.Application\\Queries\\GetInvitedLeadsQueryHandler.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Queries\\GetInvitedLeadsQueryHandler.cs",
+              "RelativeToolTip": "Leads.Application\\Queries\\GetInvitedLeadsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:20:08.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetInvitedLeadsQuery.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Queries\\GetInvitedLeadsQuery.cs",
+              "RelativeDocumentMoniker": "Leads.Application\\Queries\\GetInvitedLeadsQuery.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Application\\Queries\\GetInvitedLeadsQuery.cs",
+              "RelativeToolTip": "Leads.Application\\Queries\\GetInvitedLeadsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:19:39.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LeadDeclined.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Domain\\Events\\LeadDeclined.cs",
+              "RelativeDocumentMoniker": "Leads.Domain\\Events\\LeadDeclined.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Domain\\Events\\LeadDeclined.cs",
+              "RelativeToolTip": "Leads.Domain\\Events\\LeadDeclined.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:52:39.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LeadAccepted.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Domain\\Events\\LeadAccepted.cs",
+              "RelativeDocumentMoniker": "Leads.Domain\\Events\\LeadAccepted.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Domain\\Events\\LeadAccepted.cs",
+              "RelativeToolTip": "Leads.Domain\\Events\\LeadAccepted.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:52:27.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeadCreated.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Domain\\Events\\LeadCreated.cs",
+              "RelativeDocumentMoniker": "Leads.Domain\\Events\\LeadCreated.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Domain\\Events\\LeadCreated.cs",
+              "RelativeToolTip": "Leads.Domain\\Events\\LeadCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:52:10.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Leads.Domain",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Domain\\Leads.Domain.csproj",
+              "RelativeDocumentMoniker": "Leads.Domain\\Leads.Domain.csproj",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Domain\\Leads.Domain.csproj",
+              "RelativeToolTip": "Leads.Domain\\Leads.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T10:50:46.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Leads.Domain\\Class1.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Domain\\Class1.cs",
+              "RelativeToolTip": "Leads.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:50:05.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Leads.Api\\Program.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Api\\Program.cs",
+              "RelativeToolTip": "Leads.Api\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAuwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:41:08.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeadsController.cs",
+              "DocumentMoniker": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Api\\Controllers\\LeadsController.cs",
+              "RelativeDocumentMoniker": "Leads.Api\\Controllers\\LeadsController.cs",
+              "ToolTip": "D:\\repos\\ferreira.kevin\\leads_manager\\src\\backend\\Leads.Api\\Leads.Api\\Controllers\\LeadsController.cs",
+              "RelativeToolTip": "Leads.Api\\Controllers\\LeadsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:29:23.967Z",
+              "EditorCaption": ""
             }
           ]
         }
